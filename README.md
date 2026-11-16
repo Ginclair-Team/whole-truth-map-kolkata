@@ -1,1 +1,1 @@
-# whole-truth-map
+# whole-truth-map-kolkata
