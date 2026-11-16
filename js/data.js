@@ -1,4 +1,4 @@
-/* Pixel Kolkata — places and copy.
+/* Whole Truth Map — places and copy.
    truth  = the checkable part (dates, names, numbers). Keep it verifiable.
    whole  = the lived part: what people do there, what is changing, how under-25s talk about it. Editorial voice.
    at     = [i, j] cell on the map, z = pin height in px above ground.

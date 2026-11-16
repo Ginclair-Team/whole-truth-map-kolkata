@@ -12,4 +12,4 @@ http.createServer((req, res) => {
     res.writeHead(200, { 'Content-Type': types[path.extname(f)] || 'application/octet-stream', 'Cache-Control': 'no-store' });
     res.end(buf);
   });
-}).listen(port, () => console.log('Pixel Kolkata on http://localhost:' + port));
+}).listen(port, () => console.log('Whole Truth Map on http://localhost:' + port));

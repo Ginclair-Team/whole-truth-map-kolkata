@@ -1,6 +1,8 @@
-# Pixel Kolkata: the truth and the whole truth
+# Whole Truth Map: Kolkata
 
-A zoomable isometric pixel-art map of Kolkata. Every place carries two readings:
+By [Ginhouse](https://ginclair.com/ginhouse).
+
+A map that tells you the truth about a city, and then the whole truth. This first edition is Kolkata, drawn as a zoomable isometric pixel-art map. Every place carries two readings:
 
 - **The truth** is the checkable part: dates, names, numbers.
 - **The whole truth** is the lived part: what people do there, what is changing, how under-25s talk about it.
@@ -53,5 +55,7 @@ This writes `tools/out/day.png` and `tools/out/night.png`. Pass `x y w h scale` 
 - `#x=860&y=520&z=2.0&m=truth` restores a view.
 
 ## Credits
+
+Concept and production: Ginhouse, [ginclair.com/ginhouse](https://ginclair.com/ginhouse).
 
 Inspired by Pixel Chennai (pixelchennai.com) by RC. No artwork from that project is used. Fonts: Pixelify Sans and Press Start 2P (SIL Open Font License), bundled in `fonts/`.

@@ -1,4 +1,4 @@
-/* Pixel Kolkata - offline renderer.
+/* Whole Truth Map - offline renderer.
    node tools/render.js                      -> tools/out/day.png + night.png
    node tools/render.js x y w h scale [night] -> tools/out/crop.png (nearest-neighbour upscaled) */
 'use strict';

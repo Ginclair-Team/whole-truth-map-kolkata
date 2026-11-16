@@ -1,4 +1,4 @@
-/* Pixel Kolkata — software isometric pixel rasteriser.
+/* Whole Truth Map — software isometric pixel rasteriser.
    Pure JS (no DOM) so the same code runs in the browser and in tools/render.js.
    Everything is drawn into a colour buffer + depth buffer, so draw order never matters
    and animated sprites can be hidden behind buildings. */

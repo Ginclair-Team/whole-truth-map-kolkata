@@ -1,4 +1,4 @@
-/* Pixel Kolkata: application plumbing (boot, camera, pins, card, menu, hash).
+/* Whole Truth Map: application plumbing (boot, camera, pins, card, menu, hash).
    Plain script, shared global PK. Works from file://. */
 (function () {
   'use strict';
