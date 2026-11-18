@@ -2,6 +2,8 @@
 
 By [Ginhouse](https://ginclair.com/ginhouse).
 
+<img width="1860" height="2480" alt="poster" src="https://github.com/user-attachments/assets/22553392-1b88-4c63-94b1-36cc44efc403" />
+
 A map that tells you the truth about a city, and then the whole truth. This first edition is Kolkata, drawn as a zoomable isometric pixel-art map. Every place carries two readings:
 
 - **The truth** is the checkable part: dates, names, numbers.
